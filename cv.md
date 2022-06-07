@@ -17,3 +17,7 @@ So far I am a beginner and this summary is my first code, I do not have knowledg
 ## Education
 
 - RS School(studying right now)
+
+## Languages
+
+English - A2/B1 Pre-Intermediate
